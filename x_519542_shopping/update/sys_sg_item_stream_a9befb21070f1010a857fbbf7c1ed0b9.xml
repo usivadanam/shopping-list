@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Shopping List Shopping Item">edbefb21070f1010a857fbbf7c1ed0a7</data_item>
+        <interleaved_field/>
+        <name>Shopping Item Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-04 20:41:42</sys_created_on>
+        <sys_id>a9befb21070f1010a857fbbf7c1ed0b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shopping Item Item Stream</sys_name>
+        <sys_package display_value="Shopping List" source="x_519542_shopping">1ebb37e907cb1010a857fbbf7c1ed09b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">1ebb37e907cb1010a857fbbf7c1ed09b</sys_scope>
+        <sys_update_name>sys_sg_item_stream_a9befb21070f1010a857fbbf7c1ed0b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-04 22:04:40</sys_updated_on>
+        <table>x_519542_shopping_shopping_item</table>
+    </sys_sg_item_stream>
+</record_update>
